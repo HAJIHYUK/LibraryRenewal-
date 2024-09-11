@@ -19,7 +19,7 @@ import com.lib.jh.service.BlackListService;
 import com.lib.jh.service.BoardService;
 import com.lib.jh.service.CommService;
 import com.lib.jh.service.PenaltyService;
-
+//
 @SessionAttributes("user") 
 @Controller
 public class JAdminController {
